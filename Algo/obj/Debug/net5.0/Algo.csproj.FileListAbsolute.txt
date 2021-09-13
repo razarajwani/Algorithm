@@ -13,3 +13,4 @@ D:\Practice\Algorithm\Algo\Algo\obj\Debug\net5.0\Algo.dll
 D:\Practice\Algorithm\Algo\Algo\obj\Debug\net5.0\ref\Algo.dll
 D:\Practice\Algorithm\Algo\Algo\obj\Debug\net5.0\Algo.pdb
 D:\Practice\Algorithm\Algo\Algo\obj\Debug\net5.0\Algo.genruntimeconfig.cache
+D:\Practice\Algorithm\Algo\Algo\obj\Debug\net5.0\Algo.csproj.AssemblyReference.cache
