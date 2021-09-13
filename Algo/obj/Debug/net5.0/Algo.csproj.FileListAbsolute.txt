@@ -1,0 +1,15 @@
+D:\Practice\Algorithm\Algo\Algo\bin\Debug\net5.0\Algo.exe
+D:\Practice\Algorithm\Algo\Algo\bin\Debug\net5.0\Algo.deps.json
+D:\Practice\Algorithm\Algo\Algo\bin\Debug\net5.0\Algo.runtimeconfig.json
+D:\Practice\Algorithm\Algo\Algo\bin\Debug\net5.0\Algo.runtimeconfig.dev.json
+D:\Practice\Algorithm\Algo\Algo\bin\Debug\net5.0\Algo.dll
+D:\Practice\Algorithm\Algo\Algo\bin\Debug\net5.0\ref\Algo.dll
+D:\Practice\Algorithm\Algo\Algo\bin\Debug\net5.0\Algo.pdb
+D:\Practice\Algorithm\Algo\Algo\obj\Debug\net5.0\Algo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Algorithm\Algo\Algo\obj\Debug\net5.0\Algo.AssemblyInfoInputs.cache
+D:\Practice\Algorithm\Algo\Algo\obj\Debug\net5.0\Algo.AssemblyInfo.cs
+D:\Practice\Algorithm\Algo\Algo\obj\Debug\net5.0\Algo.csproj.CoreCompileInputs.cache
+D:\Practice\Algorithm\Algo\Algo\obj\Debug\net5.0\Algo.dll
+D:\Practice\Algorithm\Algo\Algo\obj\Debug\net5.0\ref\Algo.dll
+D:\Practice\Algorithm\Algo\Algo\obj\Debug\net5.0\Algo.pdb
+D:\Practice\Algorithm\Algo\Algo\obj\Debug\net5.0\Algo.genruntimeconfig.cache
